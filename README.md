@@ -8,4 +8,6 @@ AtCoderの勉強用リポジトリ
 
 - [AtCoder](https://atcoder.jp/home)
 
+- [AtCoder Beginners Selection](https://atcoder.jp/contests/abs)
+
 - [鉄則本 Github](https://github.com/E869120/kyopro-tessoku)
